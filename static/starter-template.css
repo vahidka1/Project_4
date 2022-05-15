@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.boxed {
+  border: 1px solid rgb(0, 0, 0) ;
+  padding: 10px;
+}
+
+.yellow {
+  background: rgb(255, 251, 0);
+}
